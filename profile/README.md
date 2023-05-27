@@ -1,4 +1,4 @@
-# Hi there 👋 101001
+# Hi there 👋
 
 🤔 **What is CodeIQ** - **CodeIQ** is a education and software company. At **CodeIQ**, we offer a range of services that can help you learn programming.  Our goal is to help others code!
 
