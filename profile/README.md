@@ -4,7 +4,7 @@
 
 ## So what does CodeIQ do?
 
-CodeIQ makes sure that everyone that uses CodeIQ can code at the right level by using our courses, we make sure everyone that is willing to pay, has the same chance as top developers. CodeIQ is eager to inspire developers.
+CodeIQ makes sure that everyone that uses CodeIQ can code at the right level by using our courses, we make sure everyone that is willing to pay, has the same chance as top developers. CodeIQ is eager to inspire developers!
 
 ## What's Planned Ahead:
 - [x] Discord Server
