@@ -10,6 +10,7 @@ CodeIQ makes sure that everyone that uses CodeIQ can code at the right level by 
 - [x] Discord Server
 - [x] CodeIQ Discord Bot v1
 - [x] Github Page
+- [x] FAQ on Discord Server 
 - [ ] Website
 - [ ] Courses
     - [ ] Python
@@ -21,13 +22,10 @@ CodeIQ makes sure that everyone that uses CodeIQ can code at the right level by 
 - [ ] MAX update
 - [ ] CodeIQ Discord Bot Update v3
 - [ ] Article update
-- [ ] Log in update
 - [ ] CodeIQ Discord Bot Update v4
-- [ ] Course Update
 - [ ] Software update
     - [ ] AI products with more features
     - [ ] Discord Bots with more features and commands
-- [ ] CodeIQ Discord Bot Update v5
-- [ ] CodeIQ BIG UPDATE
 - [ ] ???
 - [ ] ???
+
