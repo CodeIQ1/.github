@@ -20,12 +20,6 @@ CodeIQ makes sure that everyone that uses CodeIQ can code at the right level by 
 - [ ] CodeIQ Discord Bot Update v2
 - [ ] Launch
 - [ ] MAX update
-- [ ] CodeIQ Discord Bot Update v3
-- [ ] Article update
-- [ ] CodeIQ Discord Bot Update v4
-- [ ] Software update
-    - [ ] AI products with more features
-    - [ ] Discord Bots with more features and commands
 - [ ] ???
 - [ ] ???
 
