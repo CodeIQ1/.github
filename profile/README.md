@@ -1,10 +1,10 @@
 # Hi there 👋
 
-🤔 **What is CodeIQ** - **CodeIQ** is a education and software company. At **CodeIQ**, we offer a range of services that can help you learn programming.  Our goal is to help others code!
+🤔 **What is PyIQ** - **PyIQ** is a education and software company. At **PyIQ**, we offer a range of services that can help you learn programming.  Our goal is to help others code!
 
-## So what does CodeIQ do?
+## So what does PyIQ do?
 
-CodeIQ makes sure that everyone that uses CodeIQ can code at the right level by using our courses, we make sure everyone that is willing to pay, has the same chance as top developers. CodeIQ is eager to inspire developers!
+PyIQ makes sure that everyone that uses PyIQ can code at the right level by using our courses, we make sure everyone that is willing to pay, has the same chance as top developers. PyIQ is eager to inspire developers!
 
 ## What's Planned Ahead:
 - [x] Discord Server
@@ -16,8 +16,6 @@ CodeIQ makes sure that everyone that uses CodeIQ can code at the right level by 
     - [ ] Python
     - [ ] JavaScript
     - [ ] Html & css
-- [ ] Software
-- [ ] CodeIQ Discord Bot Update v2
 - [ ] Launch
 - [ ] MAX update
 - [ ] ???
